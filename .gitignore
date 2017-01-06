@@ -1,0 +1,105 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Misc #
+########
+*.log
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.ear
+*.war
+*.tar
+*.zip
+
+# Gradle Project #
+##################
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Maven Project #
+#################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse IDE #
+###############
+.classpath
+.project
+.metadata
+bin/
+*.tmp
+*.bak
+*.swp
+local.properties
+.loadpath
+.settings/
+tmp/
+.springBeans
+.target
+.buildpath
+.factorypath
+.cproject
+.externalToolBuilders/
+
+# Tyler’s Personal #
+####################
+*.iml
+.idea/
+
